@@ -1,0 +1,12 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<h1>Hello, Chance</h1>
+<center>
+<iframe src="https://www.seethestats.com/stats/20309/NewUsers_7e18feb4b_ifr.html" style="width:40%;height:40%;border:none;" scrolling="no" frameborder="0"></iframe>
+<iframe src="https://www.seethestats.com/stats/20309/PageviewsPerSession_6672c29be_ifr.html" style="width:40%;height:40%;border:none;" scrolling="no" frameborder="0"></iframe>
+<iframe src="https://www.seethestats.com/stats/20309/SessionDuration_38836bdca_ifr.html" style="width:40%;height:40%;border:none;" scrolling="no" frameborder="0"></iframe>
+<iframe src="https://www.seethestats.com/stats/20309/Users_5efc7c0c1_ifr.html" style="width:40%;height:40%;border:none;" scrolling="no" frameborder="0"></iframe>
+</center>
